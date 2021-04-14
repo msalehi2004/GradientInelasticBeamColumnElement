@@ -14,10 +14,10 @@ Codes written and maintained by [Mohammad Salehi](https://resilient-structures.c
 
 ## References
 
-*Sideris, P., Salehi, M. (2016). "A Gradient-Inelastic Flexibility-based Frame Element Formulation." Journal of Engineering Mechanics, 142(7): 04016039.
+* Sideris, P., Salehi, M. (2016). "A Gradient-Inelastic Flexibility-based Frame Element Formulation." Journal of Engineering Mechanics, 142(7): 04016039. (https://doi.org/10.1061/(ASCE)EM.1943-7889.0001083)
 
-*Salehi, M., Sideris, P. (2017). "Refined Gradient Inelastic Flexibility-Based Formulation for Members Subjected to Arbitrary Loading." Journal of Engineering Mechanics, 143(9): 04017090.
+* Salehi, M., Sideris, P. (2017). "Refined Gradient Inelastic Flexibility-Based Formulation for Members Subjected to Arbitrary Loading." Journal of Engineering Mechanics, 143(9): 04017090. (https://doi.org/10.1061/(ASCE)EM.1943-7889.0001288)
 
-*Salehi, M., Sideris, P., Liel, A.B. (2017). "Seismic Collapse Analysis of RC Framed Structures using the Gradient Inelastic Force-Based Element Formulation." 16th World Conference on Earthquake Engineering (16WCEE), Santiago Chile, January 9-13.
+* Salehi, M., Sideris, P., Liel, A.B. (2017). "Seismic Collapse Analysis of RC Framed Structures using the Gradient Inelastic Force-Based Element Formulation." 16th World * Conference on Earthquake Engineering (16WCEE), Santiago Chile, January 9-13. (https://www.wcee.nicee.org/wcee/article/16WCEE/WCEE2017-2990.pdf)
 
-*Salehi, M., Sideris, P., Liel, A.B. (2020). "Assessing Damage and Collapse Capacity of Reinforced Concrete Structures Using the Gradient Inelastic Beam Element Formulation." Engineering Structures, 225: 111290.
+* Salehi, M., Sideris, P., Liel, A.B. (2020). "Assessing Damage and Collapse Capacity of Reinforced Concrete Structures Using the Gradient Inelastic Beam Element Formulation." Engineering Structures, 225: 111290. (https://doi.org/10.1016/j.engstruct.2020.111290)
