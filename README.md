@@ -1,6 +1,6 @@
 # Gradient Inelastic Beam-Column Element
 
-This is a repository for the source codes associated with the implementation of the force/flexibility-based (FB) gradient inelastic (GI) element formulation in [OpenSees](https://github.com/OpenSees/OpenSees).
+This is a repository for the source codes associated with the implementation of the force/flexibility-based (FB) gradient inelastic (GI) element formulation in [OpenSees](https://github.com/OpenSees/OpenSees). 
 
 The GI element formulation is based on the GI beam theory, which eliminates the strain localization and response objectivity problems by utilizing a set of gradient-based nonlocality relations that ensure the continuity of section strains (e.g., curvature) over the element length, upon the occurrence of softening at any section. The GI element does not necessitate any certain form of constitutive relations and permits users to use the same constitutive relations used in conventional FB element formulations. Moreover, the number of integration points in the GI element is not fixed and it could produce section strain (e.g., curvature) distributions with high resolutions.
 
