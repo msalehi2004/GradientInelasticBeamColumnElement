@@ -1,24 +1,6 @@
-/* ****************************************************************** **
-**    OpenSees - Open System for Earthquake Engineering Simulation    **
-**          Pacific Earthquake Engineering Research Center            **
-**                                                                    **
-**                                                                    **
-** (C) Copyright 1999, The Regents of the University of California    **
-** All Rights Reserved.                                               **
-**                                                                    **
-** Commercial use of this program without express permission of the   **
-** University of California, Berkeley, is strictly prohibited.  See   **
-** file 'COPYRIGHT'  in main directory for information on usage and   **
-** redistribution,  and for a DISCLAIMER OF ALL WARRANTIES.           **
-**                                                                    **
-** Developed by:                                                      **
-**   Frank McKenna (fmckenna@ce.berkeley.edu)                         **
-**   Gregory L. Fenves (fenves@ce.berkeley.edu)                       **
-**   Filip C. Filippou (filippou@ce.berkeley.edu)                     **
-**                                                                    **
-** ****************************************************************** */
-
 /* Written by: Mohammad Salehi (mohammad.salehi@tamu.edu)
+** (C) Copyright 1999, Mohammad Salehi and Petros Sideris
+** All rights reserved
 ** Created: 07/19
 ** Description: The source code for the 3D gradient inelastic (GI) force-based beam-column element formulation
 **
@@ -26,11 +8,11 @@
 ** References:
 **
 ** Mohammad Salehi and Petros Sideris (2017)
-** ìRefined Gradient Inelastic Flexibility-Based Formulation for Members Subjected to Arbitrary Loadingî
+** ‚ÄúRefined Gradient Inelastic Flexibility-Based Formulation for Members Subjected to Arbitrary Loading‚Äù
 ** ASCE Journal of Engineering Mechanics, 143(9): 04017090
 **
 ** Petros Sideris and Mohammad Salehi (2016)
-** ìA Gradient Inelastic Flexibility-Based Frame Element Formulationî
+** ‚ÄúA Gradient Inelastic Flexibility-Based Frame Element Formulation‚Äù
 ** ASCE Journal of Engineering Mechanics, 142(7): 04016039
 */
 
