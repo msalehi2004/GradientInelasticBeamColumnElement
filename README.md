@@ -7,3 +7,7 @@ The GI element formulation is based on the GI beam theory, which eliminates the 
 From the user’s perspective, the gradientInelasticBeamColumn element has similar input to other force-based fiber elements’ and the only additional parameter that this element requires is a characteristic length, lc, which controls the spread of plasticity/damage in the vicinity of a softening location. In the simulation of RC beams/columns, this parameter can be taken equal to the plastic hinge length. If lc equals zero, the GI beam element formulation turns into a conventional FB element formulation (i.e., as if the classical beam theory is used).
 
 For more information about the GI element formulation and its command description, please refer to the PDF file available in the repository and the references at the end of this page.
+
+## Authors
+
+Codes written and maintained by Mohammad Salehi (mohammad.salehi@rice.edu) and Petros Sideris (petros.sideris@tamu.edu).
