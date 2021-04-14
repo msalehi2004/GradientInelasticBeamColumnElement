@@ -1,5 +1,5 @@
 /* Written by: Mohammad Salehi (mohammad.salehi@tamu.edu)
-** (C) Copyright 1999, Mohammad Salehi and Petros Sideris
+** (C) Copyright 2021, Mohammad Salehi and Petros Sideris
 ** All rights reserved
 ** Created: 07/19
 ** Description: The source code for the 2D gradient inelastic (GI) force-based beam-column element formulation
